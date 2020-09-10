@@ -96,6 +96,16 @@ Use OOP to your advantage. It not only made our app functionally more efficient,
 ## Contributors
 
 <h2 align="center">
+Colin Whitcomb
+ </h2>
+
+<p align="center">
+    <img src="images/ss13.png" width="270" />
+</p>
+
+[GitHub](https://github.com/Colin-Whitcomb) | [LinkedIn](https://www.linkedin.com/in/colin-whitcomb-b808301a6/) | [Portfolio](https://colin-whitcomb.github.io/React_Portfolio/)
+
+<h2 align="center">
 Gabe Sucich
  </h2>
 
@@ -125,12 +135,3 @@ Samuel Levi Barrow
 
 [GitHub](https://github.com/sbarrow825) | [LinkedIn](https://www.linkedin.com/in/sam-barrow/) | [Portfolio](https://sbarrow825.github.io/Unit-02-CSS-and-Bootstrap-Homework-Responsive-Portfolio/)
 
-<h2 align="center">
-Colin Whitcomb
- </h2>
-
-<p align="center">
-    <img src="images/ss13.png" width="270" />
-</p>
-
-[GitHub](https://github.com/Colin-Whitcomb) | [LinkedIn](https://www.linkedin.com/in/colin-whitcomb-b808301a6/) | [Portfolio](https://colin-whitcomb.github.io/React_Portfolio/)
